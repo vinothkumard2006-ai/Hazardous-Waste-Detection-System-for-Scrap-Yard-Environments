@@ -1,1 +1,0 @@
-# Hazardous-Waste-Detection-System-for-Scrap-Yard-Environments
